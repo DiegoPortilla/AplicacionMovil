@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AplicacionMovil</string>
+    <string name="item1">Boton1</string>
+    <string name="item2">Boton2</string>
+    <string name="item3">Boton3</string>
+
+    <string name="error_field_required" />
+    <string name="error_invalid_password" />
+    <string name="error_invalid_user_email" />
+</resources>

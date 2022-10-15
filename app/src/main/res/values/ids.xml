@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="float_label_user_Email" type="id" />
+    <item name="float_label_password" type="id" />
+    <item name="txtEmail" type="id" />
+    <item name="txtNombre" type="id" />
+    <item name="txtPassword" type="id" />
+    <item name="btnEnviar" type="id" />
+</resources>
